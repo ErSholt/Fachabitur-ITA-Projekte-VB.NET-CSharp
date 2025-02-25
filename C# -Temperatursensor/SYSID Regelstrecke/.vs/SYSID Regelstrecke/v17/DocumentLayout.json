@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Apekwhuut\\Documents\\Schule\u0026Studium\\Programmierung FachAbi\\Projekte\\C# -Temperatursensor\\SYSID Regelstrecke\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{306898BC-C40E-42A4-A81B-FC02782C7788}|SYSID Regelstrecke\\SYSID Regelstrecke.vbproj|c:\\users\\apekwhuut\\documents\\schule\u0026studium\\programmierung fachabi\\projekte\\c# -temperatursensor\\sysid regelstrecke\\sysid regelstrecke\\auswertung.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{306898BC-C40E-42A4-A81B-FC02782C7788}|SYSID Regelstrecke\\SYSID Regelstrecke.vbproj|solutionrelative:sysid regelstrecke\\auswertung.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306898BC-C40E-42A4-A81B-FC02782C7788}|SYSID Regelstrecke\\SYSID Regelstrecke.vbproj|C:\\Users\\Apekwhuut\\Documents\\Schule\u0026Studium\\Programmierung FachAbi\\Projekte\\C# -Temperatursensor\\SYSID Regelstrecke\\sysid regelstrecke\\auswertung.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{306898BC-C40E-42A4-A81B-FC02782C7788}|SYSID Regelstrecke\\SYSID Regelstrecke.vbproj|solutionrelative:sysid regelstrecke\\auswertung.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306898BC-C40E-42A4-A81B-FC02782C7788}|SYSID Regelstrecke\\SYSID Regelstrecke.vbproj|C:\\Users\\Apekwhuut\\Documents\\Schule\u0026Studium\\Programmierung FachAbi\\Projekte\\C# -Temperatursensor\\SYSID Regelstrecke\\sysid regelstrecke\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{306898BC-C40E-42A4-A81B-FC02782C7788}|SYSID Regelstrecke\\SYSID Regelstrecke.vbproj|solutionrelative:sysid regelstrecke\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306898BC-C40E-42A4-A81B-FC02782C7788}|SYSID Regelstrecke\\SYSID Regelstrecke.vbproj|C:\\Users\\Apekwhuut\\Documents\\Schule\u0026Studium\\Programmierung FachAbi\\Projekte\\C# -Temperatursensor\\SYSID Regelstrecke\\sysid regelstrecke\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{306898BC-C40E-42A4-A81B-FC02782C7788}|SYSID Regelstrecke\\SYSID Regelstrecke.vbproj|solutionrelative:sysid regelstrecke\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306898BC-C40E-42A4-A81B-FC02782C7788}|SYSID Regelstrecke\\SYSID Regelstrecke.vbproj|C:\\Users\\Apekwhuut\\Documents\\Schule\u0026Studium\\Programmierung FachAbi\\Projekte\\C# -Temperatursensor\\SYSID Regelstrecke\\sysid regelstrecke\\formhelp.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{306898BC-C40E-42A4-A81B-FC02782C7788}|SYSID Regelstrecke\\SYSID Regelstrecke.vbproj|solutionrelative:sysid regelstrecke\\formhelp.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "auswertung.vb",
+              "DocumentMoniker": "C:\\Users\\Apekwhuut\\Documents\\Schule\u0026Studium\\Programmierung FachAbi\\Projekte\\C# -Temperatursensor\\SYSID Regelstrecke\\SYSID Regelstrecke\\auswertung.vb",
+              "RelativeDocumentMoniker": "SYSID Regelstrecke\\auswertung.vb",
+              "ToolTip": "C:\\Users\\Apekwhuut\\Documents\\Schule\u0026Studium\\Programmierung FachAbi\\Projekte\\C# -Temperatursensor\\SYSID Regelstrecke\\SYSID Regelstrecke\\auswertung.vb",
+              "RelativeToolTip": "SYSID Regelstrecke\\auswertung.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-25T10:07:53.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "form1.vb",
+              "DocumentMoniker": "C:\\Users\\Apekwhuut\\Documents\\Schule\u0026Studium\\Programmierung FachAbi\\Projekte\\C# -Temperatursensor\\SYSID Regelstrecke\\SYSID Regelstrecke\\form1.vb",
+              "RelativeDocumentMoniker": "SYSID Regelstrecke\\form1.vb",
+              "ToolTip": "C:\\Users\\Apekwhuut\\Documents\\Schule\u0026Studium\\Programmierung FachAbi\\Projekte\\C# -Temperatursensor\\SYSID Regelstrecke\\SYSID Regelstrecke\\form1.vb",
+              "RelativeToolTip": "SYSID Regelstrecke\\form1.vb",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAgwLoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-25T10:06:07.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Apekwhuut\\Documents\\Schule\u0026Studium\\Programmierung FachAbi\\Projekte\\C# -Temperatursensor\\SYSID Regelstrecke\\SYSID Regelstrecke\\form1.vb",
+              "RelativeDocumentMoniker": "SYSID Regelstrecke\\form1.vb",
+              "ToolTip": "C:\\Users\\Apekwhuut\\Documents\\Schule\u0026Studium\\Programmierung FachAbi\\Projekte\\C# -Temperatursensor\\SYSID\\SYSID Regelstrecke\\SYSID Regelstrecke\\form1.vb [Design]",
+              "RelativeToolTip": "..\\SYSID\\SYSID Regelstrecke\\SYSID Regelstrecke\\form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-25T10:05:16.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "auswertung.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Apekwhuut\\Documents\\Schule\u0026Studium\\Programmierung FachAbi\\Projekte\\C# -Temperatursensor\\SYSID Regelstrecke\\SYSID Regelstrecke\\auswertung.vb",
+              "RelativeDocumentMoniker": "SYSID Regelstrecke\\auswertung.vb",
+              "ToolTip": "C:\\Users\\Apekwhuut\\Documents\\Schule\u0026Studium\\Programmierung FachAbi\\Projekte\\C# -Temperatursensor\\SYSID\\SYSID Regelstrecke\\SYSID Regelstrecke\\auswertung.vb [Design]",
+              "RelativeToolTip": "..\\SYSID\\SYSID Regelstrecke\\SYSID Regelstrecke\\auswertung.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-25T10:05:13.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "formhelp.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Apekwhuut\\Documents\\Schule\u0026Studium\\Programmierung FachAbi\\Projekte\\C# -Temperatursensor\\SYSID Regelstrecke\\SYSID Regelstrecke\\formhelp.vb",
+              "RelativeDocumentMoniker": "SYSID Regelstrecke\\formhelp.vb",
+              "ToolTip": "C:\\Users\\Apekwhuut\\Documents\\Schule\u0026Studium\\Programmierung FachAbi\\Projekte\\C# -Temperatursensor\\SYSID\\SYSID Regelstrecke\\SYSID Regelstrecke\\formhelp.vb [Design]",
+              "RelativeToolTip": "..\\SYSID\\SYSID Regelstrecke\\SYSID Regelstrecke\\formhelp.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-25T10:05:17.259Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+C:\Users\Apekw\Desktop\Projekt\SYSID\SYSID Regelstrecke\SYSID Regelstrecke\bin\Debug\SYSID Regelstrecke.exe.config
+C:\Users\Apekw\Desktop\Projekt\SYSID\SYSID Regelstrecke\SYSID Regelstrecke\bin\Debug\SYSID Regelstrecke.exe
+C:\Users\Apekw\Desktop\Projekt\SYSID\SYSID Regelstrecke\SYSID Regelstrecke\bin\Debug\SYSID Regelstrecke.pdb
+C:\Users\Apekw\Desktop\Projekt\SYSID\SYSID Regelstrecke\SYSID Regelstrecke\bin\Debug\SYSID Regelstrecke.xml
+C:\Users\Apekw\Desktop\Projekt\SYSID\SYSID Regelstrecke\SYSID Regelstrecke\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Apekw\Desktop\Projekt\SYSID\SYSID Regelstrecke\SYSID Regelstrecke\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Apekw\Desktop\Projekt\SYSID\SYSID Regelstrecke\SYSID Regelstrecke\obj\Debug\SYSID Regelstrecke.vbproj.GenerateResource.Cache
+C:\Users\Apekw\Desktop\Projekt\SYSID\SYSID Regelstrecke\SYSID Regelstrecke\obj\Debug\SYSID Regelstrecke.exe
+C:\Users\Apekw\Desktop\Projekt\SYSID\SYSID Regelstrecke\SYSID Regelstrecke\obj\Debug\SYSID Regelstrecke.xml
+C:\Users\Apekw\Desktop\Projekt\SYSID\SYSID Regelstrecke\SYSID Regelstrecke\obj\Debug\SYSID Regelstrecke.pdb
+C:\Users\Apekw\Desktop\Projekt\SYSID\SYSID Regelstrecke\SYSID Regelstrecke\obj\Debug\WindowsApplication1.formhelp.resources
+C:\Users\Apekw\Desktop\Projekt\SYSID\SYSID Regelstrecke\SYSID Regelstrecke\obj\Debug\WindowsApplication1.auswertung.resources
+C:\Users\TANJA\Desktop\Projekt\SYSID\SYSID Regelstrecke\SYSID Regelstrecke\bin\Debug\SYSID Regelstrecke.exe.config
+C:\Users\TANJA\Desktop\Projekt\SYSID\SYSID Regelstrecke\SYSID Regelstrecke\obj\Debug\SYSID Regelstrecke.exe
+C:\Users\TANJA\Desktop\Projekt\SYSID\SYSID Regelstrecke\SYSID Regelstrecke\obj\Debug\SYSID Regelstrecke.xml
+C:\Users\TANJA\Desktop\Projekt\SYSID\SYSID Regelstrecke\SYSID Regelstrecke\obj\Debug\SYSID Regelstrecke.pdb
+C:\Users\TANJA\Desktop\Projekt\SYSID\SYSID Regelstrecke\SYSID Regelstrecke\bin\Debug\SYSID Regelstrecke.exe
+C:\Users\TANJA\Desktop\Projekt\SYSID\SYSID Regelstrecke\SYSID Regelstrecke\bin\Debug\SYSID Regelstrecke.pdb
+C:\Users\TANJA\Desktop\Projekt\SYSID\SYSID Regelstrecke\SYSID Regelstrecke\bin\Debug\SYSID Regelstrecke.xml
+C:\Users\TANJA\Desktop\Projekt\SYSID\SYSID Regelstrecke\SYSID Regelstrecke\obj\Debug\WindowsApplication1.form1.resources
+C:\Users\TANJA\Desktop\Projekt\SYSID\SYSID Regelstrecke\SYSID Regelstrecke\obj\Debug\WindowsApplication1.auswertung.resources
+C:\Users\TANJA\Desktop\Projekt\SYSID\SYSID Regelstrecke\SYSID Regelstrecke\obj\Debug\WindowsApplication1.formhelp.resources
+C:\Users\TANJA\Desktop\Projekt\SYSID\SYSID Regelstrecke\SYSID Regelstrecke\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\TANJA\Desktop\Projekt\SYSID\SYSID Regelstrecke\SYSID Regelstrecke\obj\Debug\SYSID Regelstrecke.vbproj.GenerateResource.Cache
+C:\Users\Apekw\Desktop\Projekt 3\SYSID\SYSID Regelstrecke\SYSID Regelstrecke\bin\Debug\SYSID Regelstrecke.exe.config
+C:\Users\Apekw\Desktop\Projekt 3\SYSID\SYSID Regelstrecke\SYSID Regelstrecke\obj\Debug\SYSID Regelstrecke.exe
+C:\Users\Apekw\Desktop\Projekt 3\SYSID\SYSID Regelstrecke\SYSID Regelstrecke\obj\Debug\SYSID Regelstrecke.xml
+C:\Users\Apekw\Desktop\Projekt 3\SYSID\SYSID Regelstrecke\SYSID Regelstrecke\obj\Debug\SYSID Regelstrecke.pdb
+C:\Users\Apekw\Desktop\Projekt 3\SYSID\SYSID Regelstrecke\SYSID Regelstrecke\bin\Debug\SYSID Regelstrecke.exe
+C:\Users\Apekw\Desktop\Projekt 3\SYSID\SYSID Regelstrecke\SYSID Regelstrecke\bin\Debug\SYSID Regelstrecke.pdb
+C:\Users\Apekw\Desktop\Projekt 3\SYSID\SYSID Regelstrecke\SYSID Regelstrecke\bin\Debug\SYSID Regelstrecke.xml
+C:\Users\Apekw\Desktop\Projekt 3\SYSID\SYSID Regelstrecke\SYSID Regelstrecke\obj\Debug\WindowsApplication1.form1.resources
+C:\Users\Apekw\Desktop\Projekt 3\SYSID\SYSID Regelstrecke\SYSID Regelstrecke\obj\Debug\WindowsApplication1.auswertung.resources
+C:\Users\Apekw\Desktop\Projekt 3\SYSID\SYSID Regelstrecke\SYSID Regelstrecke\obj\Debug\WindowsApplication1.formhelp.resources
+C:\Users\Apekw\Desktop\Projekt 3\SYSID\SYSID Regelstrecke\SYSID Regelstrecke\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Apekw\Desktop\Projekt 3\SYSID\SYSID Regelstrecke\SYSID Regelstrecke\obj\Debug\SYSID Regelstrecke.vbproj.GenerateResource.Cache
+C:\Users\TANJA\Desktop\SYSID\SYSID Regelstrecke\SYSID Regelstrecke\bin\Debug\SYSID Regelstrecke.exe.config
+C:\Users\TANJA\Desktop\SYSID\SYSID Regelstrecke\SYSID Regelstrecke\obj\Debug\SYSID Regelstrecke.exe
+C:\Users\TANJA\Desktop\SYSID\SYSID Regelstrecke\SYSID Regelstrecke\obj\Debug\SYSID Regelstrecke.xml
+C:\Users\TANJA\Desktop\SYSID\SYSID Regelstrecke\SYSID Regelstrecke\obj\Debug\SYSID Regelstrecke.pdb
+C:\Users\TANJA\Desktop\SYSID\SYSID Regelstrecke\SYSID Regelstrecke\bin\Debug\SYSID Regelstrecke.exe
+C:\Users\TANJA\Desktop\SYSID\SYSID Regelstrecke\SYSID Regelstrecke\bin\Debug\SYSID Regelstrecke.pdb
+C:\Users\TANJA\Desktop\SYSID\SYSID Regelstrecke\SYSID Regelstrecke\bin\Debug\SYSID Regelstrecke.xml
+C:\Users\TANJA\Desktop\SYSID\SYSID Regelstrecke\SYSID Regelstrecke\obj\Debug\WindowsApplication1.form1.resources
+C:\Users\TANJA\Desktop\SYSID\SYSID Regelstrecke\SYSID Regelstrecke\obj\Debug\WindowsApplication1.auswertung.resources
+C:\Users\TANJA\Desktop\SYSID\SYSID Regelstrecke\SYSID Regelstrecke\obj\Debug\WindowsApplication1.formhelp.resources
+C:\Users\TANJA\Desktop\SYSID\SYSID Regelstrecke\SYSID Regelstrecke\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\TANJA\Desktop\SYSID\SYSID Regelstrecke\SYSID Regelstrecke\obj\Debug\SYSID Regelstrecke.vbproj.GenerateResource.Cache
